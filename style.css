@@ -227,6 +227,7 @@ ul, li{
      margin-top: 2rem;
     }
     .container::before{
+        left: -12rem;
         content: url(social-proof-section-master/images/bg-pattern-top-desktop.svg);
     }
     .container::after{
